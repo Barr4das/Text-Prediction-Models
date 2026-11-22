@@ -1,0 +1,27 @@
+[
+  {
+    "text": "O que é um voto?",
+    "prefix": "O voto é",
+    "topics": ["voto", "votos", "votar", "vota", "votam", "votação", "eleição", "eleições", "eleitor", "eleitores", "eleitoral", "urna", "urnas", "sufrágio", "candidato", "candidatos", "escolha", "escolher"]
+  },
+  {
+    "text": "O que é a democracia?",
+    "prefix": "A democracia é",
+    "topics": ["democracia", "democrático", "democrática", "povo", "cidadão", "cidadãos", "liberdade", "governo", "eleições", "voto", "votar", "poder", "direitos"]
+  },
+  {
+    "text": "Qual é a diferença entre uma monarquia e uma república?",
+    "prefix": "A diferença entre uma monarquia e uma república é",
+    "topics": ["rei", "rainha", "reis", "monarca", "coroa", "trono", "hereditário", "presidente", "eleito", "eleição", "povo", "governo", "república", "monarquia"]
+  },
+  {
+    "text": "Porque é que existem partidos políticos?",
+    "prefix": "Os partidos políticos existem porque",
+    "topics": ["partido", "partidos", "política", "político", "políticos", "eleições", "governo", "ideias", "ideologia", "poder", "votos", "parlamento", "deputados", "esquerda", "direita"]
+  },
+  {
+    "text": "Quais são as vantagens e as desvantagens da democracia?",
+    "prefix": "As vantagens da democracia são",
+    "topics": ["liberdade", "povo", "voto", "votar", "eleições", "poder", "governo", "cidadãos", "igualdade", "direitos", "corrupção", "maioria", "desvantagens", "vantagem"]
+  }
+]

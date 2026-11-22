@@ -1,0 +1,201 @@
+{
+  "A Bagagem do Viajante": {
+    "first_line": 65,
+    "last_line": 594,
+    "removed_prefix": null,
+    "lines_before": 616,
+    "lines_after": 530,
+    "join_first_two_lines": false
+  },
+  "A Caverna": {
+    "first_line": 7,
+    "last_line": 88,
+    "removed_prefix": null,
+    "lines_before": 103,
+    "lines_after": 82,
+    "join_first_two_lines": false
+  },
+  "A Jangada de Pedra": {
+    "first_line": 3,
+    "last_line": 360,
+    "removed_prefix": null,
+    "lines_before": 385,
+    "lines_after": 358,
+    "join_first_two_lines": false
+  },
+  "A Viagem do Elefante": {
+    "first_line": 14,
+    "last_line": 173,
+    "removed_prefix": null,
+    "lines_before": 178,
+    "lines_after": 160,
+    "join_first_two_lines": false
+  },
+  "Alabardas, Alabardas, Espingardas, Espingardas": {
+    "first_line": 15,
+    "last_line": 42,
+    "removed_prefix": null,
+    "lines_before": 165,
+    "lines_after": 28,
+    "join_first_two_lines": false
+  },
+  "As Intermitências da Morte": {
+    "first_line": 6,
+    "last_line": 80,
+    "removed_prefix": null,
+    "lines_before": 100,
+    "lines_after": 75,
+    "join_first_two_lines": false
+  },
+  "Caim": {
+    "first_line": 24,
+    "last_line": 118,
+    "removed_prefix": null,
+    "lines_before": 118,
+    "lines_after": 95,
+    "join_first_two_lines": false
+  },
+  "Claraboia": {
+    "first_line": 7,
+    "last_line": 2736,
+    "removed_prefix": null,
+    "lines_before": 2773,
+    "lines_after": 2730,
+    "join_first_two_lines": false
+  },
+  "Deste Mundo e do Outro": {
+    "first_line": 18,
+    "last_line": 447,
+    "removed_prefix": null,
+    "lines_before": 447,
+    "lines_after": 430,
+    "join_first_two_lines": false
+  },
+  "Ensaio sobre a Cegueira": {
+    "first_line": 11,
+    "last_line": 172,
+    "removed_prefix": null,
+    "lines_before": 191,
+    "lines_after": 162,
+    "join_first_two_lines": false
+  },
+  "Ensaio sobre a Lucidez": {
+    "first_line": 6,
+    "last_line": 185,
+    "removed_prefix": "Livro das Vozes ",
+    "lines_before": 189,
+    "lines_after": 180,
+    "join_first_two_lines": false
+  },
+  "História do Cerco de Lisboa": {
+    "first_line": 6,
+    "last_line": 332,
+    "removed_prefix": null,
+    "lines_before": 334,
+    "lines_after": 327,
+    "join_first_two_lines": false
+  },
+  "Memorial do Convento": {
+    "first_line": 1,
+    "last_line": 546,
+    "removed_prefix": "José Saramago Memorial do Convento http://groups.google.com/group/digitalsource Editorial Caminho, SA. Lisboa, 1982 © Editores Reunidos, Lda., Lisboa,1994, para a presente edição ",
+    "lines_before": 549,
+    "lines_after": 545,
+    "join_first_two_lines": true
+  },
+  "O Ano da Morte de Ricardo Reis": {
+    "first_line": 14,
+    "last_line": 286,
+    "removed_prefix": null,
+    "lines_before": 287,
+    "lines_after": 273,
+    "join_first_two_lines": false
+  },
+  "O Evangelho segundo Jesus Cristo": {
+    "first_line": 6,
+    "last_line": 180,
+    "removed_prefix": null,
+    "lines_before": 199,
+    "lines_after": 175,
+    "join_first_two_lines": false
+  },
+  "O Homem Duplicado": {
+    "first_line": 6,
+    "last_line": 89,
+    "removed_prefix": null,
+    "lines_before": 89,
+    "lines_after": 84,
+    "join_first_two_lines": false
+  },
+  "Terra do Pecado": {
+    "first_line": 12,
+    "last_line": 2874,
+    "removed_prefix": null,
+    "lines_before": 2875,
+    "lines_after": 2863,
+    "join_first_two_lines": false
+  },
+  "ocr/Levantado do Chão": {
+    "first_line": 5,
+    "last_line": 756,
+    "removed_prefix": null,
+    "lines_before": 765,
+    "lines_after": 752,
+    "join_first_two_lines": false
+  },
+  "ocr/Todos os Nomes": {
+    "first_line": 31,
+    "last_line": 403,
+    "removed_prefix": null,
+    "lines_before": 443,
+    "lines_after": 278,
+    "join_first_two_lines": false,
+    "edits": [
+      {
+        "start": 23,
+        "end": 37,
+        "replacement": [
+          "Felizmente a gente famosa não é assim tanta."
+        ]
+      },
+      {
+        "start": 83,
+        "end": 93,
+        "replacement": [
+          ".Ao contrário do que quase sempre se pensa, vendo as coisas de fora, nado costuma ser fácil a vida nas reparti¢Oes oficiais, menos ainda nesta Conservatéria Geral do Registo Civil, onde, desde tempos a que sé não poderemos chamar imemoriais porque de tudo e de todos se encontra registo nela, por obra do esforc¢o persistente de uma linha ininterrupta de grandes conservadores, sumamente se reuniram todas as excelsitudes e pequenezas do ofício público, aquelas que fazem do funcionário um ser a parte, usufruidor e ao mesmo tempo dependente do espaço físico e mental delimitado pelo alcance do seu aparo. Em termos simples, e com vista a uma mais exacta compreensão dos factos gerais abstractamente considerados neste predmbulo, o que o Sr. José tem é um problema para resolver. Sabendo quão custoso lhe foi arrancar as relutancias regulamentares da hierarquia aquela mísera meia hora de dispensa do serviço, graças a qual 8&9 pode no ser surpreendido em flagrante pelo marido da jovem senhora do segundo andar esquerdo, podemos imaginar as afligdes por que anda a passar agora, noite e dia, 4 procura da justificação útil que lhe permita solicitar, não uma hora, mas duas, não duas, mas três, que provavelmente são as de que ira precisar para levar a cabo, com proveito suficiente, a visita a escola e a indispensável pesquisa nos seus arquivos. Os efeitos desta inquietação, constante, obsessiva, não tardaram a manifestar-se em erros no trabalho, em faltas de atenção, em súbitas sonoléncias diurnas devidas 4 insónia nocturna, em resumo, o Sr. José, até aqui apreciado pelos seus vários superiores como um funcionário competente, metddico e dedicado, começou a ser objecto de avisos severos, de admoestacoes, de chamadas a4 ordem, que só serviram para o confundir ainda mais, sem contar que, pelo caminho que 1a, podia ter como certissima uma resposta negativa se alguma vez chegasse a requerer a ansiada dispensa. Atingiu a situação uns extremos tais que, depois de ter sido analisada, sem resultado, sucessivamente por oficiais e subchefes, não houve outro remédio que fazê-la subir 4 consideração do conservador, 0 qual, nos primeiros momentos, não conseguiu compreender o que se passava, tão absurdo lhe parecia. Que um funcionário tivesse desmazelado aquele ponto as suas obrigacées, era algo que tornava impossível qualquer benevolente inclina¢ção que ainda pudesse existir para uma decisão exculpatéria, era algo que ofendia seriamente as tradigdes operativas da Conservatoria Geral, algo que só uma doença muito grave poderia justificar. Levado o delinquente a sua presenc¢a, foi isto mesmo o que o conservador perguntou ao Sr. José, Esta doente, Julgo que não, senhor, Se não esta doente, como explica entado o mau trabalho que tem andado a fazer nos últimos dias, Não sei, senhor, talvez seja porque tenho dormido mal, Nesse caso, esta mesmo doente, Apenas durmo mal, Se dorme mal, é porque esta doente, uma pessoa saudável dorme sempre bem, a não ser que tenha algum peso na consciência, uma falta censurável, daquelas que a consciência não perdoa, a consciência é muito importante, Sim senhor, Se os seus erros de serviço são causados pela insónia e se a insónia esta a ser causada por acusacg6es da consciência, então ha que descobrir a falta cometida, Não cometi nenhuma falta, senhor, Impossível, a única pessoa, aqui, que não comete faltas, sou eu, e agora que se passa, por que é que esta a olhar para a lista dos telefones, Distrai-me, senhor, Mau sinal, sabe que tem de olhar sempre para mim quando lhe falo, é do regulamento disciplinar, eu sou o nico que tem direito a desviar os olhos, Sim senhor, Qual foi a falta, Não sei, senhor, Nesse caso ainda é mais grave, as faltas esquecidas são as piores, Tenho sido cumpridor dos meus deveres, As informações de que disponho a seu respeito eram satisfatdrias, mas isso, precisamente, só serve para demonstrar que a sua ma conduta profissional destes dias não foi consequência duma falta esquecida, mas duma falta recente, duma falta de agora, A consciência não me acusa, As consciências calam-se mais do que deviam, por isso € que se criaram as leis, Sim senhor, Tenho de tomar uma decisão, Sim senhor, E já a tomei, Sim senhor, Aplico-lhe um dia de suspensão, E a suspensão, senhor, é só de salário, ou também é de serviço, perguntou o Sr. José, vendo acender-se um vislumbre de esperança, De salário, de salário, o serviço não pode ser mais prejudicado do que já foi, ainda ha pouco tempo lhe dei meia hora de folga, nado me diga que esperava que 0 seu mau comportamento fosse premiado com um dia inteiro, Não senhor, Desejo, para seu bem, que lhe sirva de emenda, que volte rapidamente a ser o funcionário correcto que era antes, no interesse desta Conservatoéria Geral, Sim senhor, Nada mais, regresse ao seu lugar."
+        ]
+      },
+      {
+        "start": 134,
+        "end": 139,
+        "replacement": []
+      },
+      {
+        "start": 168,
+        "end": 210,
+        "replacement": []
+      },
+      {
+        "start": 221,
+        "end": 237,
+        "replacement": [
+          "Foi 14 no dia seguinte pela manha, mas decidiu não subir a perguntar aos actuais ocupantes da casae aos outros inquilinos do prédio se tinham conhecido a menina do retrato. O mais certo seria responderem-lhe que não a conheciam, que estavam a viver ali ha pouco tempo, ou que não se lembravam, Compreende, as pessoas vêm e vão, realmente não recordo nada dessa família, nem vale a pena puxar pela cabeça, e se alguém dissesse que sim, que lhe parecia ter uma vaga ideia, seria com certeza para logo a seguir acrescentar que as suas relagdes haviam sido apenas as naturais entre pessoas de boa educação, Não voltou a vê-los, perguntaria ainda o Sr. José, Nunca mais, depois de se terem mudado nunca mais os vi, Que pena, Disse tudo quanto sabia, lamento não ter podido ser mais útil a Conservatoéria Geral. A fortuna de encontrar logo no princípio uma senhora do rés-do-chão direito tão bem informada, tão próxima das fontes originais do caso, não poderia acontecer duas vezes, mas só muito mais tarde, quando nada do que aqui se esta relatando tiver já importância, é que o Sr. José virá a descobrir que a mesma ditosa fortuna, neste episódio, havia estado de um prodigioso modo a seu favor, poupando-o as mais desastrosas consequências. Não sabia ele que um dos moradores do prédio era precisamente, por diabólica casualidade, um dos subchefes da Conservatoria, pode adivinhar-se com facilidade a cena terrível, o nosso confiado Sr. José a bater 4 porta, a mostrar o verbete, talvez mesmo a falsa credencial, e a mulher que o viera atender a dizer-lhe perfidamente, Volte ca mais tarde, quando oO meu marido estiver em casa, esses assuntos são com ele, e o Sr. José tornaria, com o cora¢ção cheio de esperanças, e daria de cara com um irado subchefe que lhe daria imediata voz de prisão, em sentido próprio se diz, não no figurado, os regulamentos da Conservatéria Geral do Registo Civil não admitem leviandades nem improvisag6es, e 0 pior é que não os conhecemos todos. Ao ter resolvido, desta vez, como se o anjo da guarda lho tivesse recomendado com insistência ao ouvido, orientar as suas averiguações para os comércios das cercanias, 0 Sr. José salvara-se, sem saber, do maior desaire da sua longa carreira de funcionário. Contentou-se pois com olhar as janelas da casa onde a mulher desconhecida vivera quando jovem, e, para entrar bem na pele de um investigador autêntico, imaginou vê-la a sair com a pasta dos livros para 0 colégio, caminhar até 4 paragem do autocarro e ai esperar, nado valia a pena ir-lhe no encalco, o Sr. José sabia perfeitamente para onde ela se dirigia, tinha as competentes provas guardadas entre o colchão e o enxergão. Um quarto de hora depois saiu o pai, segue na direcção contréria, por isso não acompanha a filha quando ela vai para o colégio, salvo se simplesmente este pai e esta filha não gostam de andar juntos e dão este pretexto, ou não o deram sequer, mais terá sido uma espécie de arranjo tácito entre os dois, para evitar que os vizinhos notassem a mútua indiferencga. Agora so falta ao Sr. José ter um pouco mais de paciência, esperar que a mãe Sala para ir As compras, como é costume nas famílias, assim ficara a saber para onde lhe convirá orientar as pesquisas, o estabelecimento comercial mais próximo, três prédios adiante, é aquela farmácia, mas o Sr. José duvida, logo de entrada, que daqui possa levar alguma informação Útil, o empregado é um homem novo, novo na idade e na casa, ele próprio o diz, Não conheço, só estou aqui ha dois anos. Por tão pouco o Sr. José não ira desanimar, tem leituras de jornais e revistas mais do que suficientes, além da experiência que a vida lhe vem dando, para perceber que estas investigagées, feitas 4amoda antiga, custam muito trabalho, ele é andar e andar, ele é palmilhar ruas e calcadas, ele é subir escadas, ele é bater as portas, ele é descer escadas, as mesmas perguntas mil vezes feitas, as respostas idênticas, quase sempre em tom reservado, Não conhe¢o, nunca ouvi falar dessa pessoa, só muito raramente sucede vir 1a de dentro um farmacêutico mais velho que ouviu a conversa e é homem de fortes curiosidades, Que deseja, perguntou, Ando a procura duma pessoa, respondeu o Sr. José, ao mesmo tempo que levava a mão ao bolso interior do casaco para exibir a credencial. Não chegou a completar o movimento, reteve-o uma súbita inquietação, desta vez não foi obra de nenhum anjo da guarda, o que o fez retirar a mão lentamente foi o olhar do farmacêutico, um olhar que mais parecia um estilete, uma broca perfurante, ninguém diria, com aquela cara enrugada e aqueles cabelos brancos, o resultado de olhar com tais olhos é pér logo de pé atrás até a mais ingénua das criaturas, provavelmente por causa disso é que a curiosidade do farmacêutico nunca se da por satisfeita, quanto mais quer saber menos lhe contam. Assim aconteceu com o Sr. José."
+        ]
+      },
+      {
+        "start": 291,
+        "end": 298,
+        "replacement": [
+          "Entra-se no cemitério por um edifício antigo cuja frente é irmã gémea da fachada da Conservatoria Geral do Registo Civil. Apresenta os mesmos três degraus de pedra negra, a mesma velha porta ao meio, as mesmas cinco janelas esguias em cima. Se não fosse o grande portão de dois batentes contiguo a frontaria, a Única diferencga observavel seria a tabuleta sobre a porta de entrada, também em letras de esmalte, que diz Cemitério Geral. O portão esta fechado desde ha muitos anos, quando foi evidente que O acesso por ali se tinha tornado impraticável, que deixara de satisfazer cabalmente o fim a que havia sido destinado, isto é, dar passagem cómoda não sé aos defuntos e aos seus acompanhantes, como também às visitas que aqueles viessem a ter depois. Do mesmo modo que todos os cemitérios deste ou de qualquer outro mundo, começou por ser uma coisinha minúscula, uma parcela breve de terreno na periferia 203, do que ainda era um embriao de cidade, virado para o ar livre das campinas, mas depois, com o andar dos tempos, como infelizmente tinha de ser, foi crescendo, crescendo, crescendo, até se tornar na necrépole imensa que é hoje. Ao princípio esteve todo murado ao redor, e, durante geragdes, de cada vez que 0 aperto 14 dentro começava a prejudicar tanto o alojamento ordenado dos mortos como a circulação prática dos vivos, fazia-se 0 mesmo que na Conservatéria Geral, deitavam-se abaixo os muros e levantavam-se um pouco mais a frente. Um dia, vai já a caminho de quatro séculos que isto aconteceu, o então curador do Cemitério teve a ideia de o abrir para todos os lados, excepto na parte virada para a rua, alegando que esta era a Única maneira de reanimar a relação sentimental entre os de dentro e os de fora, muito diminuída por essas alturas, como qualquer pessoa poderia verificar se reparasse no abandono a que estavam votadas as sepulturas, principalmente as mais antigas. Achava ele que os muros, embora servindo de forma positiva a higiene e o decoro, acabavam por ter 0 efeito perverso de dar asas ao olvido, 0 que de resto não deveria Causar surpresa a ninguém, andando a sabedoria popular a dizer, desde que o mundo é mundo, que o coração não sente o que os olhos não vejam. Temos muitas razões para pensar que foram só de raiz interna OS motivos que levaram o chefe da Conservatéria a tomar a decisão de unificar, contra a tradicado e a rotina, Os arquivos dos mortos e dos vivos, por esta maneira reintegrando, na área documental específica abrangida pelas suas atribuigdes, a sociedade humana. Por isso mais difícil nos é perceber por que não foi logo aplicada a licféo precursora de um humilde € primitivo curador de cemitério, de poucas luzes, sem duvida, como era natural no ofício e próprio do seu tempo, mas de revolucionarias intuigGes, e que ainda por cima, com tristeza 0 registamos, não tem na sua sepultura, a assinalar o feito aos vindouros, uma lapide condigna. Pelo contrário, desde ha quatro séculos que andam a cair andtemas, insultos, calinias e vexames sobre a memória do infeliz inovador, considerado como responsável histórico da situação presente da necrdépole, a que chamam desastrosa e caótica, sobretudo porque o Cemitério Geral não sé continua a nado ter muros ao redor como é impossível que os volte a ter alguma vez. Expliquemo-nos melhor. Ficou dito acima que o Cemitério cresceu, não, claro esta, por obra e gracga de uma virtude reprodutora intrínseca sua, como fosse, permita-se 0 macabro exemplo, haverem imprudentemente os mortos gerado mortos, mas apenas porque a cidade veio aumentando em populac¢ão, e portanto também em superfície. Quando ainda o Cemitério Geral estava rodeado de muros, ocorreu, por mais de uma vez, em épocas sucessivas, aquilo a que depois, na linguagem burocrática municipal, viria a denominar-se surtos de expansão demográfica urbana. Pouco a pouco, os extensos campos por trás do Cemitério começaram a ser povoados, surgiram pequenas aglomeragoes, aldeias, casarios, segundas residéncias, que por seu turno foram crescendo, aqui e além tocando-se umas As outras, mas deixando ainda pelo meio amplos espaços vazios, que eram campos de cultivo, ou bosques, ou pastagens, ou zonas de mato. Foi por ai que o Cemitério Geral avançou quando os muros foram deitados abaixo. Como uma cheia que começa por inundar as cotas de nível inferiores, serpenteando pelos vales, e depois, paulatinamente, vai subindo pelas encostas, assim as sepulturas foram ganhando terreno, muitas vezes com grave prejuízo para a agricultura, quando Os proprietários, forçados pelo assédio, não encontraram outro remédio que vender as courelas, e outras vezes contornando pomares, searas, eiras e cortes de gado, sempre a vista das povoac6es, e muitas vezes, por assim dizer, porta com porta. Observado do ar, o Cemitério Geral parece uma árvore deitada, enorme, com um tronco curto e grosso, constituido pelo núcleo de sepulturas original, donde arrancam quatro poderosos ramos, contiguos a nascença, mas que, depois, em bifurcagOes sucessivas, se estendem a perder de vista, formando, no dizer de um poeta inspirado, uma frondosa copa em que a vida e a morte se confundem, como se confundem, nas árvores propriamente ditas, as avezinhas e a folhagem. Esta é a causa de ter o portão do Cemitério Geral deixado de servir 4 passagem dos préstitos fuinebres. Abre-se só 14 de longe em longe, quando um investigador de pedras velhas, depois de ter estudado no local alguma estela funerária dos primeiros tempos, pede autorização para fazer uns moldes dela, com 0 consequente manejo de materiais brutos, como sejam 0 gesso, a estopa e os arames, €, não raro complementarmente, fotografias delicadas e precisas, daquelas que necessitam focos, teflectores, baterias, fotémetros, chapéus-de-chuva e outros artefactos, aos quais, uns e outros, para não perturbar o serviço de escrituragéo, não se permite que passem pela pequena porta que liga por dentro o edifício ao Cemitério."
+        ]
+      },
+      {
+        "start": 344,
+        "end": 350,
+        "replacement": [
+          "E aproximando-se mais, quase num suspiro, disse a morada. O Sr. José dormiu como uma pedra. Depois de regressar da arriscada mas bem sucedida visita aos pais da mulher desconhecida, quis ainda passar ao caderno os acontecimentos extraordinários do seu fim-de-semana, mas 0 sono era tanto que não conseguiu ir além da conversa com o auxiliar de escrita do Cemitério Geral. Foi para a cama sem jantar, adormeceu em menos de dois minutos, e quando abriu os olhos, a primeira claridade do amanhecer, descobriu que, sem saber como nem quando, tinha tomado a decisão de não ir trabalhar. Era segunda-feira, justamente o pior dia para faltar ao serviço, em particular tratando-se de um auxiliar de escrita. Qualquer que fosse 0 motivo alegado, e por muito convincente que tivesse podido ser noutra ocasiado, era considerado suspeito de não ser mais do que um falso pretexto, destinado a justificar o prolongamento da indolência dominical num dia legal e costumadamente dedicado ao trabalho. Após as sucessivas e cada vez mais graves irregularidades de comportamento cometidas desde que começara a procurar a mulher desconhecida, o Sr. José esta consciente de que a falta ao serviço poderá converter-se na gota de gua que entornara de vez o vaso da paciência do chefe. Esta ameaçadora perspectiva, porém, não foi bastante para diminuir-lhe a firmeza da decisão."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "variety": "PB",
+    "category": "ISBN",
+    "pattern": "\\b978[-\\s]?(?:85|65)[-\\s]?\\d",
+    "strength": "strong",
+    "scope": "credits"
+  },
+  {
+    "variety": "PE",
+    "category": "ISBN",
+    "pattern": "\\b978[-\\s]?(?:972|989)[-\\s]?\\d",
+    "strength": "strong",
+    "scope": "credits"
+  },
+  {
+    "variety": "PB",
+    "category": "publisher",
+    "pattern": "(Rio de Janeiro|São Paulo|Companhia das Letras|Companhia de Bolso|Nova Aguilar|LeLivros)",
+    "strength": "medium",
+    "scope": "credits"
+  },
+  {
+    "variety": "PE",
+    "category": "publisher",
+    "pattern": "(Lisboa|Porto Editora|Relógio D.Água|Editorial Caminho|Dom Quixote|Bertrand)",
+    "strength": "medium",
+    "scope": "credits"
+  },
+  {
+    "variety": "PB",
+    "category": "accent",
+    "pattern": "\\b(antônio|antônia|econômic\\w*|gênero\\w*|anônim\\w*|fêmea\\w*|bebê|tênis|crônica\\w*|cômod[oa]s?|fenômeno\\w*|prêmio\\w*|gênio\\w*|quilômetro\\w*|acadêmic\\w*|polêmic\\w*)\\b",
+    "strength": "strong",
+    "scope": "text"
+  },
+  {
+    "variety": "PE",
+    "category": "accent",
+    "pattern": "\\b(antónio|antónia|económic\\w*|género\\w*|anónim\\w*|fémea\\w*|bebé|ténis|crónica\\w*|cómod[oa]s?|fenómeno\\w*|prémio\\w*|génio\\w*|quilómetro\\w*|académic\\w*|polémic\\w*)\\b",
+    "strength": "strong",
+    "scope": "text"
+  },
+  {
+    "variety": "PB",
+    "category": "spelling",
+    "pattern": "\\b\\w*[gq]ü[eiéí]\\w*",
+    "strength": "strong",
+    "scope": "text"
+  },
+  {
+    "variety": "PB",
+    "category": "spelling",
+    "pattern": "\\b(idéias?|assembléias?|européias?|platéias?|estréias?|geléias?)\\b",
+    "strength": "strong",
+    "scope": "text"
+  },
+  {
+    "variety": "PB",
+    "category": "vocabulary",
+    "pattern": "\\b(ônibus|café da manhã|celular(es)?|geladeiras?|banheiros?|garot[oa]s?)\\b",
+    "strength": "medium",
+    "scope": "text"
+  },
+  {
+    "variety": "PE",
+    "category": "vocabulary",
+    "pattern": "\\b(autocarros?|comboios?|pequeno-almoço|telemóve(l|is)|frigoríficos?|casa de banho|equipas?|miúd[oa]s?|raparigas?)\\b",
+    "strength": "medium",
+    "scope": "text"
+  },
+  {
+    "variety": "PE",
+    "category": "syntax",
+    "pattern": "\\b(estou|está|estava|estavam|estão|estamos)\\s+a\\s+\\w+(?:ar|er|ir)\\b",
+    "strength": "medium",
+    "scope": "text"
+  },
+  {
+    "variety": "PB",
+    "category": "syntax",
+    "pattern": "\\b(estou|está|estava|estavam|estão|estamos)\\s+\\w+ndo\\b",
+    "strength": "weak",
+    "scope": "text"
+  },
+  {
+    "variety": "PE",
+    "category": "syntax",
+    "pattern": "\\b\\w*[^\\Wn\\d]-(?:me|te|lhe|lhes|nos|vos)\\b",
+    "strength": "strong",
+    "scope": "text"
+  }
+]

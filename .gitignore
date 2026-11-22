@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados: as obras estão protegidas por direitos de autor.
+# Só a estrutura de pastas (.gitkeep) e o README vão para o repositório.
+data/**
+!data/**/
+!data/README.md
+!data/**/.gitkeep
