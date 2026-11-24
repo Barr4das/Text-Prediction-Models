@@ -2,7 +2,7 @@
 
 O presente trabalho foi desenvolvido para a cadeira de Processamento de
 Linguagem Natural, do Mestrado em Engenharia Informática do ISEL, lecionada pela
-Dr. Matilde Pato.
+Dra. Matilde Pato.
 
 Este trabalho insere-se como uma implementação prática dos conteúdos lecionados
 em aula, mais especificamente, referente à criação de modelos de previsão de
